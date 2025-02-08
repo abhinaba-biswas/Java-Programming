@@ -17,7 +17,7 @@ class Box {
     double height;
 
     double area(){
-        return (depth*width)+(width*height)+(height*depth);
+        return ((depth*width)+(width*height)+(height*depth))*2;
     }
 
     double volume(){
