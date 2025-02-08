@@ -1,4 +1,5 @@
 package Encapsulation;
+/**
 class Circle {
     double x,y;
     double r;
@@ -9,6 +10,7 @@ class Circle {
         return Math.PI*r*r;
     }
 }
+*/
 class Box {
     double depth;
     double width;
