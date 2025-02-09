@@ -1,4 +1,6 @@
 package Encapsulation;
+
+/**
 class Circle {
     double x,y;
     double r;
@@ -9,6 +11,7 @@ class Circle {
         return Math.PI*r*r;
     }
 }
+*/
 class Box {
     double depth;
     double width;
@@ -22,7 +25,7 @@ class Box {
         return depth*width*height;
     }
 }
-public class CircleBox {
+public class CircleBox_3 {
     public static void main(String[] args){
         Circle c = new Circle();
         Box b = new Box();

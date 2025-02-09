@@ -11,7 +11,7 @@ class Circle {
     }
 }
 
-public class CircleDemo {
+public class CircleDemo_1 {
     public static void main(String[] args) {
         Circle c = new Circle();
         c.x = 0;
